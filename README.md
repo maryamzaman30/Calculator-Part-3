@@ -45,27 +45,33 @@ Before diving in, ensure you have the following installed:
    cd Mobile-Development-University-of-London-Calculator-Part-3 
    ```
 
-2. Start the Expo development server:
+2. Run the command to install the needed packages:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the Expo development server:
 
    ```bash
    npm start
    ```
 
-   This will launch the Expo developer tools in your default browser, providing you with options to test your app.
+   This will launch the Expo developer tools in your default browser, providing you with options to test the app.
 
-3. You can run your app in the following ways:
+4. You can run the app in the following ways:
    - **Simulators:**  
-     Use the displayed options to run your app on an Android or iOS simulator if they're set up.  
+     Use the displayed options to run the app on an Android or iOS simulator if they're set up.  
    - **Physical Device:**  
      Scan the QR code shown in the Expo developer tools as seen in the image below, using the **Expo Go** app. You can download it for [iOS](https://apps.apple.com/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent).
 
-     ![fig](https://github.com/user-attachments/assets/c07fe067-602e-4493-8474-4099986fe7d3)
+    ![fig](https://github.com/user-attachments/assets/c07fe067-602e-4493-8474-4099986fe7d3)
 
-4. Your app should now be running on your device or simulator!
+5. The app should now be running on your device or simulator!
 
 ### Troubleshooting
 
-- If your app fails to start, ensure that no other processes are occupying the port (default is 19000). You can stop any running process by pressing `CTRL+C` in your terminal.
+- If the app fails to start, ensure that no other processes are occupying the port (default is 19000). You can stop any running process by pressing `CTRL+C` in your terminal.
 - For additional help, refer to the [Expo Documentation](https://docs.expo.dev/).
 
-You should now see your code running correctly on your device/simulator!
+You should now see the app running correctly on your device/simulator!
