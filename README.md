@@ -75,3 +75,5 @@ Before diving in, ensure you have the following installed:
 - For additional help, refer to the [Expo Documentation](https://docs.expo.dev/).
 
 You should now see the app running correctly on your device/simulator!
+
+Note: Code written between Start and End comments is my own. The rest was provided by the University of London, and other code and resources used has been credited.
