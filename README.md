@@ -6,9 +6,9 @@
 
 ## Introduction
 
-In this project, a fully functioning calculator is made which mimics the style of iOS's default calculator, which is actually styled on the Braun ET66 pocket calculator (1987).
+Run Online on Expo Snack - https://snack.expo.dev/@maryam222/calculator
 
-Run Online on Expo Snack https://snack.expo.dev/@maryam222/calculator
+In this project, a fully functioning calculator is made which mimics the style of iOS's default calculator, which is actually styled on the Braun ET66 pocket calculator (1987).
 
 ## Getting Started
 
