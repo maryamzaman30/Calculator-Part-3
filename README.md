@@ -8,7 +8,7 @@
 
 Run Online on Expo Snack - https://snack.expo.dev/@maryam222/calculator
 
-In this project, a fully functioning calculator is made which mimics the style of iOS's default calculator, which is actually styled on the Braun ET66 pocket calculator (1987).
+In this React Native mini midterm project (part 3 out of 4), a fully functioning calculator is made which mimics the style of iOS's default calculator, which is actually styled on the Braun ET66 pocket calculator (1987).
 
 ## Getting Started
 
